@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Delnatheresa
-- 👀 I’m interested in practicing coding
-- 🌱 I’m currently learning cse
+TRAVERSE INTO A CODER'S PARADISE 
 
-<!---
-Delnatheresa/Delnatheresa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! Myself Delna Theresa Domanic. Currently doing my B.Tech degree from Amal Jyothi college of engineering, Kanjirapally
